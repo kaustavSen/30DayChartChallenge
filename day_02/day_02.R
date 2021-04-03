@@ -78,7 +78,7 @@ p <- p_female + p_male +
   plot_annotation(
     title = "What are your musical preferences?",
     subtitle = "Based on a 2013 survey of students of the Statistics class at FSEV UK",
-    caption = "Data: Kaggle | Plot: Kaustav Sen"
+    caption = "Data: Kaggle | Plot: Kaustav Sen | Icons courtsey of Wee People by ProPublica"
   ) &
   theme(
     plot.margin = margin(20, 20, 10, 20),
@@ -86,7 +86,7 @@ p <- p_female + p_male +
     plot.caption.position = "plot",
     plot.title = element_text(family = "Playfair Display", size = 21, face = "bold", hjust = 0.5),
     plot.subtitle = element_text(family = "Roboto Condensed", color = "grey30", size = 14, hjust = 0.5, margin = margin(b = 30)),
-    plot.caption = element_text(family = "Roboto Condensed", size = 12, hjust = 0.5, margin = margin(t = 15))
+    plot.caption = element_text(family = "Roboto Condensed", color = "grey60", size = 12, hjust = 0.5, margin = margin(t = 15))
   )
 
 ragg::agg_png(here("day_02", "day_02.png"), width = 14, height = 8, units = "in", res = 320)
