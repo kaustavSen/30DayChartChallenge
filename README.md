@@ -13,3 +13,7 @@ My contributions to the <a href='https://twitter.com/30DayChartChall'>#30DayChar
 ## Day 4: Magical [<a href='day_04/day_04.R'>**Code**</a>]
 
 <img src="day_04/day_04.png"/>
+
+## Day 5: Slope [<a href='day_05/day_05.R'>**Code**</a>]
+
+<img src="day_05/day_05.png"/>
