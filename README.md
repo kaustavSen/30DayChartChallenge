@@ -17,3 +17,7 @@ My contributions to the <a href='https://twitter.com/30DayChartChall'>#30DayChar
 ## Day 5: Slope [<a href='day_05/day_05.R'>**Code**</a>]
 
 <img src="day_05/day_05.png"/>
+
+## Day 6: Experimental [<a href='day_06/day_06.R'>**Code**</a>]
+
+<img src="day_06/day_06.png"/>
