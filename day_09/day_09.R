@@ -117,7 +117,7 @@ print(
   (p_1 + p_2) / (p_3 + p_4) / (p_5 + p_6)  +
     plot_annotation(
       title = "Give me a distribution, and I'll average it out to be normal\n— The Central Limit Theorem —",
-      caption = "#30DayChartChallenge | Day 6: Experimental | Plot: Kaustav Sen"
+      caption = "#30DayChartChallenge | Day 9: Statistics | Plot: Kaustav Sen"
     ) &
     theme(
       plot.margin = margin(15, 15, 15, 15),
@@ -125,7 +125,7 @@ print(
       plot.title.position = "plot",
       plot.caption.position = "plot",
       plot.title = element_text(family = "Abril Fatface", size = 45, hjust = 0.5, color = "grey40"),
-      plot.caption = element_text(family = "Roboto Condensed", size = 18, hjust = 0.5, color = "grey70")
+      plot.caption = element_text(family = "Roboto Condensed", size = 24, hjust = 0.5, color = "grey60", face = "bold")
     )
 )
 dev.off()
