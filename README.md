@@ -21,3 +21,7 @@ My contributions to the <a href='https://twitter.com/30DayChartChall'>#30DayChar
 ## Day 6: Experimental [<a href='day_06/day_06.R'>**Code**</a>]
 
 <img src="day_06/day_06.png"/>
+
+## Day 9: Statistics [<a href='day_09/day_09.R'>**Code**</a>]
+
+<img src="day_09/day_09.png"/>
